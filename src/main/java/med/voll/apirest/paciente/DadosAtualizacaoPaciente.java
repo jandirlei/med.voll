@@ -10,5 +10,4 @@ public record DadosAtualizacaoPaciente(
 		
 		@Valid
 		DadosEndereco endereco) {
-	
 }
